@@ -1,0 +1,8 @@
+/build
+.idea/
+/.idea
+
+# Android Studio
+.gradle/
+build/
+#settings.gradle
